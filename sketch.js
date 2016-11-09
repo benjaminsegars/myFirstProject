@@ -1,5 +1,4 @@
-function setup(noStroke()
-) {
+function setup(Stroke(25,25,0)) {
 createCanvas(800,800)
 background(217,50,0)  
 }
